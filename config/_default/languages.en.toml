@@ -18,8 +18,8 @@ title = "bandshoot.co.uk"
    image = "profile.jpg"
    headline = "I shoot bands!"
 #   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+  links = [
+     { email = "mailto:bo@progzilla.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -28,7 +28,7 @@ title = "bandshoot.co.uk"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-#     { facebook = "https://facebook.com/username" },
+     { facebook = "https://facebook.com/bandshoot" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
@@ -60,5 +60,5 @@ title = "bandshoot.co.uk"
 #     { twitter = "https://twitter.com/bandshoot" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
-#     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+     { ko-fi = "https://ko-fi.com/bandshoot" },
+   ]
