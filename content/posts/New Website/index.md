@@ -2,7 +2,7 @@
 title = 'New Website'
 date = 2023-10-22T17:06:07Z
 draft = false
-tags: ['website']
+tags = ['website']
 +++
 
 # Why a new website

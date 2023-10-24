@@ -2,7 +2,7 @@
 title = 'Cloudflare'
 date = 2023-10-24
 draft = false
-tags: ['cloudflare','website']
+tags = ['cloudflare','website']
 +++
 
 # Cloudflare Issues
