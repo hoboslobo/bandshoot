@@ -17,5 +17,5 @@ tags:
 
 - Weekly updates.
 - Posts on both photography and my other interests.
-- The oppurtunity to buy me a coffee :).
+- The opportunity to buy me a coffee :).
 
