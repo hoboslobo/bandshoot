@@ -1,13 +1,12 @@
 ---
 title: 'RCC Print Competition 1'
 date: 2023-10-26
-draft: true
+draft: false
 tags: 
 - Photography
 ---
 
 # Reading Camera Club - Print Competition 1
 
-{{ $image := .Resources.Get "img-1.jpg" }}
+![Stuff](img-1.jpg "Stuff")
 
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
