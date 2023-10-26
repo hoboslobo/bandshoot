@@ -6,7 +6,7 @@ tags:
 - Photography
 ---
 
-# Reading Camera Club - Print Competition 1
+
 
 ![Stuff](img-1.jpg "Stuff")
 
